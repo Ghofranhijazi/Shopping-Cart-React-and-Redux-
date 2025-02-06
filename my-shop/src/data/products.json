@@ -1,0 +1,6 @@
+[
+    { "id": 1, "name": "قهوة لاتيه", "price": 20, "image": "https://via.placeholder.com/150" },
+    { "id": 2, "name": "كابتشينو", "price": 25, "image": "https://via.placeholder.com/150" },
+    { "id": 3, "name": "إسبريسو", "price": 15, "image": "https://via.placeholder.com/150" }
+  ]
+  
